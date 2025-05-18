@@ -1,9 +1,6 @@
-def greet(input):
-    if "hello" in input:
-        return("hello, there")
-    else:
-        return("I'm not sure what you mena") 
-        
+emoticon = "v.v"
 
-greeting = greet("hello, computer")
-print(greeting)
+def main():
+
+
+main()
