@@ -4,8 +4,8 @@
 
 A nostalgic Python-powered jukebox that generates a personalized playlist from the iTunes API based on your age and graduation decade — all with some rockstar flair in ASCII art. Built as my CS50P final project and inspired by my late brother-in-law, Steve, this project combines figlet-based terminal visuals with real music data.
 
-![Output Screenshot](./Output_1.jpeg)
-![Playlist Screenshot](./output_2.jpeg)
+![Output Screenshot](./Output_1.png)
+![Playlist Screenshot](./output_2.png)
 
 ---
 
